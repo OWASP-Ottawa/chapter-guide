@@ -24,13 +24,13 @@ For updates, events, membership; please visit our meetup page: [OWASP Ottawa Mee
 ## Volunteers
 
 OWASP Ottawa would not function without the generous support of time and effort from our volunteers. If you would like to get more involved we would love to have your help.
-![OWASP Ottawa CTF Volunteers 2024](chapter-guide/assets/images/events/OWASPOttawaCTF2024Volunteers.png?raw=true)
+![OWASP Ottawa CTF Volunteers 2024](../assets/images/events/OWASPOttawaCTF2024Volunteers.png?raw=true)
 
 > Contact us on any of our socials or Slack if you wish to volunteer.
 
 ## Chapter Supporters
 
-![UofO Logo](chapter-guide/assets/images/supporters/UofOEngineeringLogo.png) ![Cyber Range Logo](chapter-guide/assets/images/supporters/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Software Secured Logo](chapter-guide/assets/images/supporters/SoftwareSecured_Brand_Logo_2021_Colour.png) ![Managed Risk Logo](chapter-guide/assets/images/supporters/managed-risk-whitebkgrnd.png)
+![UofO Logo](../assets/images/supporters/UofOEngineeringLogo.png) ![Cyber Range Logo](../assets/images/supporters/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Software Secured Logo](../assets/images/supporters/SoftwareSecured_Brand_Logo_2021_Colour.png) ![Managed Risk Logo](../assets/images/supporters/managed-risk-whitebkgrnd.png)
 
 ## Currently Scheduled Events
 
