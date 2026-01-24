@@ -7,7 +7,7 @@ This guide organized into several key pages to help you navigate and access rele
   ➡️ [Click-here](Main/index.md)
 
 - **Next Event**  
-  ➡️ [Click-here](Next\ Event/tab_nextevent.md)
+  ➡️ [Click-here](Nextevent/tab_nextevent.md)
 
 - **Parking**    
   ➡️ [Click-here](Parking/tab_parking.md)
