@@ -13,13 +13,13 @@ Welcome to our in-Person Meetup at the University of Ottawa
 In-Person Location:
 ***150 Louis-Pasteur Private, Ottawa,
 University of Ottawa
-Room 117**
+Room 117***
 
 We will continue to Live Stream on our YouTube channel. (https://www.youtube.com/@OWASP_Ottawa). Subscribe to our YouTube channel, set a reminder and you’ll get a notification as soon as we go live!
 
 YouTube Live Stream Link: TBA
 
-***6:00 PM* EST*** Arrival, setup, mingle, PIZZA!!!
+***6:00 PM EST*** Arrival, setup, mingle, PIZZA!!!
 ***6:30 PM EST*** Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
 * "SameSite... or not? Bypassing SameSite cookie protections in modern browsers" with Vincent Dragnea
