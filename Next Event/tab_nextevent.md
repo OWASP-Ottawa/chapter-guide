@@ -1,21 +1,3 @@
----
-
-title: NextEvent
-displaytext: Next Event
-layout: null
-tab: true
-order: 1
-tags: ottawa
-meetup-group: OWASP-Ottawa
-
----
-
-## Next Meeting/Event(s)
-
-[//]: # (Comment: When updating the next event info also update the homepage)
-
-
----
 
 ## Wednesday January 21st, 2026
 ### Details
@@ -41,7 +23,7 @@ YouTube Live Stream Link: TBA
 
 SameSite cookies are often relied upon too heavily to prevent cross-site request forgery, yet, due to browser implementations, these cookies can be included in unexpected requests. This talk demonstrates novel techniques to attach SameSite=Strict cookies to GET requests originating from another site, including a Google Chrome vulnerability (CVE-2025-8581) discovered while researching these methods. This material aims to help researchers identify insecure behaviours, as well as teach developers how to avoid them.
 
-![January 2026 poster](assets/images/posters/OWASPOttawa-January2026Poster.jpg)
+![January 2026 poster](../assets/images/posters/OWASPOttawa-January2026Poster.jpg)
 
 ### Speaker:
 ***Vincent Dragnea*** is an application security consultant at Forward Security. He has 7 years of experience as a security researcher, since making the leap to cybersecurity from a software development background. Always eager to learn more, and OSWE-certified, Vincent loves to find creative exploits before they are weaponized, to make the internet a safer place.
