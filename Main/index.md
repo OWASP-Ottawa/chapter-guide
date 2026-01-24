@@ -32,11 +32,6 @@ OWASP Ottawa would not function without the generous support of time and effort 
 
 ![UofO Logo](../assets/images/supporters/UofOEngineeringLogo.png) ![Cyber Range Logo](../assets/images/supporters/uOttawa-IBM_Cyber_Range_logotype_sm_pos_CMYK.jpg) ![Software Secured Logo](../assets/images/supporters/SoftwareSecured_Brand_Logo_2021_Colour.png) ![Managed Risk Logo](../assets/images/supporters/managed-risk-whitebkgrnd.png)
 
-## Currently Scheduled Events
-
-{% include chapter_events.html group=page.meetup-group %}
-
-
 ## Connect with us on Social Media and on Slack
 
 * Register for [OWASP Ottawa Slack](https://owaspottawa.slack.com/) via this [Slack link](https://join.slack.com/t/owaspottawa/shared_invite/zt-1to3abst2-uDTXE_jEp_ywp0H7fP2Lbw)
