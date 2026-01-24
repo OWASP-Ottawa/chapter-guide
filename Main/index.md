@@ -1,6 +1,6 @@
 ## Hello Ottawa and the World, Welcome to your OWASP Ottawa Chapter\!<br/> 
 
-![OWASP Ottawa Image](chapter-guide/assets/images/logos/OWASPOttawa-meetup-image.png?raw=true)
+![OWASP Ottawa Image](../chapter-guide/assets/images/logos/OWASPOttawa-meetup-image.png?raw=true)
 
 ## Who We Are
 
