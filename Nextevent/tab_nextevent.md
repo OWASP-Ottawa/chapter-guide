@@ -20,6 +20,7 @@ We will continue to Live Stream on our YouTube channel. (https://www.youtube.com
 YouTube Live Stream Link: TBA
 
 ***6:00 PM EST*** Arrival, setup, mingle, PIZZA!!!
+
 ***6:30 PM EST*** Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
 * "SameSite... or not? Bypassing SameSite cookie protections in modern browsers" with Vincent Dragnea
