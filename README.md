@@ -4,6 +4,8 @@
 - **Intro to OWASP Ottawa Chapter**
   ➡️ [Click-here](Main/index.md)
 
+---
+
 This guide organized into several key pages to help you navigate and access relevant information about the OWASP Ottawa Chapter Events temporarily.
 ## 📑 Pages Overview
 
