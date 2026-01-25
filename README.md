@@ -12,7 +12,7 @@ OWASP Ottawa events are completely free. We will never charge for access to any 
 
 ---
 
-This guide organized into several key pages to help you navigate and access relevant information about the OWASP Ottawa Chapter Events temporarily.
+This guide is organized into several key pages to help you navigate and access relevant information about the OWASP Ottawa Chapter events temporarily.
 
 ## 📑 Pages Overview
 
