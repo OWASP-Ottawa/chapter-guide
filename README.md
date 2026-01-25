@@ -1,7 +1,7 @@
 
 ![OWASP Ottawa Image](assets/images/logos/OWASPOttawa-meetup-image.png?raw=true)
 
-- **Intro to OWASP Ottawa Chapter**
+ **Intro to OWASP Ottawa Chapter**
   ➡️ [Click-here](Main/index.md)
 
 ---
