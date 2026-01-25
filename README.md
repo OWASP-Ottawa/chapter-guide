@@ -10,14 +10,14 @@ We are a place to meet local developers and information security professionals, 
 
 OWASP Ottawa events are completely free. We will never charge for access to any of our events.
 
- **Intro to OWASP Ottawa Chapter**
-  ➡️ [Click-here](Main/index.md)
-
 ---
 
 This guide organized into several key pages to help you navigate and access relevant information about the OWASP Ottawa Chapter Events temporarily.
+
 ## 📑 Pages Overview
 
+- **Intro to OWASP Ottawa Chapter** ➡️ [Click-here](Main/index.md)
+  
 - **Next Event** ➡️ [Click-here](Nextevent/tab_nextevent.md)
 
 - **Parking** ➡️ [Click-here](Parking/tab_parking.md)
