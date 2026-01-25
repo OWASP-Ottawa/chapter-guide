@@ -1,10 +1,5 @@
 ## Next Meeting/Event(s)
 
-[//]: # (Comment: When updating the next event info also update the homepage)
-
-
----
-
 ## Wednesday January 21st, 2026
 ### Details
 
