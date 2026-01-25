@@ -13,7 +13,6 @@ OWASP Ottawa events are completely free. We will never charge for access to any 
 You can submit an idea at any point in time at the following link:
 [OWASP Ottawa Speaker Submission Form 2024](https://forms.gle/KKGk33Xr9rkUhaNr5).<br/>
 
----
 
 This guide is organized into several key pages to help you navigate and access relevant information about the OWASP Ottawa Chapter events temporarily.
 
