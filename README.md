@@ -1,9 +1,7 @@
-# chapter-guide
 
 ![OWASP Ottawa Image](assets/images/logos/OWASPOttawa-meetup-image.png?raw=true)
 
-- **Intro to OWASP Ottawa Chapter**   
-  ➡️ [Click-here](Main/index.md)
+- **Intro to OWASP Ottawa Chapter**(Main/index.md)
 
 This guide organized into several key pages to help you navigate and access relevant information about the OWASP Ottawa Chapter Events temporarily.
 ## 📑 Pages Overview
