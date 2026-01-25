@@ -1,5 +1,6 @@
 # chapter-guide
-![OWASP Ottawa Image](../assets/images/logos/OWASPOttawa-meetup-image.png?raw=true)
+
+![OWASP Ottawa Image](assets/images/logos/OWASPOttawa-meetup-image.png?raw=true)
 
 - **Intro to OWASP Ottawa Chapter**   
   ➡️ [Click-here](Main/index.md)
