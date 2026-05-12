@@ -1,4 +1,4 @@
-## Next Meeting/Event(s)
+8## Next Meeting/Event(s)
 
 ## Wednesday May 20th, 2026
 ### Details
@@ -31,7 +31,7 @@ This talk shares the story of how The Ada Sisterhood grew from a small student c
 In September 2025, a self-replicating worm called Shai-Hulud compromised over 500 npm packages, with no humans in the loop. By November, follow-on waves had pushed stolen secrets to more than 25,000 public GitHub repos. This talk walks through how a malware analyst would read it: static analysis, YARA detection, dynamic analysis, and a deep dive into Shai-Hulud's credential harvesting and self-replication mechanics. If you've never opened a malware sample but you've always wanted to, this hour is for you.
 
 
-[May 2026 poster](../assets/images/posters/OWASPOttawa-May2026Poster.png)
+[May 2026 poster](../assets/images/posters/OWASPOttawa-May2026Poster.OWASPOttawa-May2026Poster.jpg)
 
 ### Speaker:
 ***Kira Evans*** recently completed the Computer Programming program at Algonquin College and is the founder of The Ada Sisterhood, a student initiative created to help students build confidence, connections, and real-world experience in tech. What started as a small campus club grew into partnerships with nonprofits, networking events, hackathons, and leadership opportunities across the Ottawa tech community. Kira currently serves on the 2026 Board of Directors for JCI Ottawa as Director of External Relations.
