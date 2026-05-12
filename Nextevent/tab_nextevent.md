@@ -1,4 +1,4 @@
-8## Next Meeting/Event(s)
+## Next Meeting/Event(s)
 
 ## Wednesday May 20th, 2026
 ### Details
