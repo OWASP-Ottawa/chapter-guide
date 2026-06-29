@@ -11,7 +11,7 @@ We are a place to meet local developers and information security professionals, 
 OWASP Ottawa events are completely free. We will never charge for access to any of our events.
 
 You can submit an idea at any point in time at the following link:
-[OWASP Ottawa Speaker Submission Form 2024](https://forms.gle/KKGk33Xr9rkUhaNr5).<br/>
+[OWASP Ottawa Speaker Submission Form](https://forms.gle/KKGk33Xr9rkUhaNr5).<br/>
 
 #
 
