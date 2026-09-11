@@ -30,7 +30,8 @@ YouTube Live Stream Link: TBA
 ***Open Source Software is Federally Included in Canada with Katie McMillan***
 This talk aims to summarize how the Government of Canada includes open source software in terms of including it in key policies, directives, and tools, as well including key groups, departments, and people. It also seeks to include important historical considerations.
 
-
+***Can you Not? How to Avoid Destroying Prod with Agent Permissions with Robert Babaev***
+LLMs are very tenacious in that they will do almost anything to achieve their goals! . . . including nuking production. Together we'll work through why agents do this, how permissions work on a handful of different harnesses like Claude Code, Cursor, and OpenCode, and how you can hopefully avoid your next agent crashing production. Again.
 
 
 ### Speaker:
