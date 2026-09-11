@@ -1,6 +1,6 @@
 ## Next Meeting/Event(s)
 
-## Wednesday June 17th, 2026
+## Wednesday September 16th, 2026
 ### Details
 
 Welcome to our in-Person Meetup at the University of Ottawa
@@ -8,27 +8,29 @@ Welcome to our in-Person Meetup at the University of Ottawa
 In-Person Location:
 ***150 Louis-Pasteur Private, Ottawa,
 University of Ottawa
-Room 117***
+Room 564***
 
 We will continue to Live Stream on our YouTube channel. (https://www.youtube.com/@OWASP_Ottawa). Subscribe to our YouTube channel, set a reminder and you’ll get a notification as soon as we go live!
 
-YouTube Live Stream Link: https://www.youtube.com/watch?v=0LnNxjSNLl8
+YouTube Live Stream Link: TBA
 
 ***6:00 PM EST*** Arrival, setup, mingle, PIZZA!!!
 
 ***6:30 PM EST*** Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
-* ***"Blackout at Scale: A Multi-Perspective Study of Iran's Internet Shutdown" with Ali Sadeghi Jahromi***
-
-
+* ***Open Source Software is Federally Included in Canada*** with Katie McMillan
+* ***Can You Not? How to Avoid Destroying Prod with Agent Permissions*** with Robert Babaev
 
 
 ### Abstracts:
 
-***Blackout at Scale: A Multi-Perspective Study of Iran's Internet Shutdown with Ali Sadeghi Jahromi***
-This talk presents the Internet shutdowns in Iran during January and March 2026 using a multi-plane measurement approach that combines passive Internet-wide scanning, active probing, and BGP routing analysis. We show how these disruptions were enforced through centralized forwarding-plane null-routing while BGP announcements remained largely unchanged, effectively hiding outages from traditional routing-based monitoring. Using global scan data, we analyze how visible host populations collapse and fluctuate during shutdown periods, including apparent anomalies that reflect measurement artifacts rather than true recovery. Through active probing of thousands of Iranian prefixes from multiple global vantage points, we find that most infrastructure becomes consistently unreachable in a centrally coordinated manner, with only a small subset of networks remaining accessible. We further identify systematic structural exemptions, including academic networks and major CDN infrastructure, that exhibit distinct behavior under shutdown conditions. Together, these results demonstrate that different measurement perspectives provide complementary but individually limited views of large-scale Internet control, highlighting the need for a multi-plane approach to accurately interpret modern Internet shutdowns.
+***Open Source Software is Federally Included in Canada with Katie McMillan***
+This talk aims to summarize how the Government of Canada includes open source software in terms of including it in key policies, directives, and tools, as well including key groups, departments, and people. It also seeks to include important historical considerations.
 
-![June 2026 poster](../assets/images/posters/OWASPOttawa-June2026Poster.jpg)
+
+
 
 ### Speaker:
-***Ali Sadeghi Jahromi*** is a Lead Cybersecurity Researcher at the Cyber Security Evaluation and Assurance (CyberSEA) Research Lab at Carleton University, where he collaborates with General Dynamics Mission Systems-Canada on applied cybersecurity research. Ali received both his Master’s degree and PhD in Computer Science from Carleton University, specializing in Internet security. His research focuses on Internet measurement, secure protocol design and evaluation, threat modelling, and the application of artificial intelligence in cybersecurity.
+***Katie McMillan*** is the leader and founder of Open Source Connect, a Canadian nonprofit dedicated to open source software (Outreach, Advocacy, and Training). She has been contributing (in various ways) to open source software for about ten years, including being on the Board of Directors for several organizations. She strongly believes in education and collaboration. Similar to other Canadian nonprofits, such as the Canadian Institute for Health Information (CIHI), Open Source Connect functions as an independent organization, but attempts to align with Government of Canada priorities and policies. Her other interests include charity work, volunteering, yoga, horseback riding, and gardening.
+
+***Robert Babaev*** is a recent graduate of Carleton University with an Honours Bachelor of Computer Science, specializing in Computer and Internet Security. He has done multiple internships at major Canadian cyber companies like Barracuda Networks and Software Secured, research into authentication and access control frameworks, and competed internationally in Athens and Prague in competitions through CyberSci. Robert also regularly engages in side projects including CourseFull, an app built to help students track their academic goals without the guesswork.
