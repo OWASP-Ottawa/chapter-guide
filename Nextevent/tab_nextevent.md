@@ -21,7 +21,7 @@ YouTube Live Stream Link: TBA
 * ***Open Source Software is Federally Included in Canada*** with Katie McMillan
 * ***Can You Not? How to Avoid Destroying Prod with Agent Permissions*** with Robert Babaev
 
-![Katie McMillan](../assets/images/posters/OWASPOttawa-September2026-1-Poster.png)
+![Katie McMillan](../assets/images/posters/OWASPOttawa-September2026-1-Poster.jpg)
 
 ![Robert Babeav](../assets/images/posters/OWASPOttawa-September2026-2-Poster.png)
 
