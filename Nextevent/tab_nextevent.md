@@ -19,7 +19,7 @@ YouTube Live Stream Link: TBA
 ***6:30 PM EST*** Technical Talks
 * Introduction to OWASP Ottawa, Public Announcements.
 * ***Open Source Software is Federally Included in Canada*** with Katie McMillan
-* ***Can You Not? How to Avoid Destroying Prod with Agent Permissions*** with Robert Babaev
+* ***Can You Not? How to Get Your Agents to Actually Behave*** with Robert Babaev
 
 ![Katie McMillan](../assets/images/posters/OWASPOttawa-September2026-1-Poster.jpg)
 
@@ -37,4 +37,4 @@ LLMs are very tenacious in that they will do almost anything to achieve their go
 ### Speaker:
 ***Katie McMillan*** is the leader and founder of Open Source Connect, a Canadian nonprofit dedicated to open source software (Outreach, Advocacy, and Training). She has been contributing (in various ways) to open source software for about ten years, including being on the Board of Directors for several organizations. She strongly believes in education and collaboration. Similar to other Canadian nonprofits, such as the Canadian Institute for Health Information (CIHI), Open Source Connect functions as an independent organization, but attempts to align with Government of Canada priorities and policies. Her other interests include charity work, volunteering, yoga, horseback riding, and gardening.
 
-***Robert Babaev*** is a recent graduate of Carleton University with an Honours Bachelor of Computer Science, specializing in Computer and Internet Security. He has done multiple internships at major Canadian cyber companies like Barracuda Networks and Software Secured, research into authentication and access control frameworks, and competed internationally in Athens and Prague in competitions through CyberSci. Robert also regularly engages in side projects including CourseFull, an app built to help students track their academic goals without the guesswork.
+***Robert Babaev*** is a DevOps Software Developer working at Acre Security. His experience spans software development, penetration testing, SOC operations, and even GRC. Ever since his first flag in a CTF back in 2019, Robert has wanted to lock down a better future.
