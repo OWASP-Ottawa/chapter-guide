@@ -1,6 +1,6 @@
 # OWASP Ottawa Day 2026
 
-![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/OWASPOttawaDay2026.png)
+![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/OWASPOttawaDay2026.jpg)
 
 **Presentations, Workshops, and Mentorship**
 
