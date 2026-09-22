@@ -27,9 +27,9 @@ Attendance is **free**, but **registration is required for the speaker track and
 workshop**. The two are ticketed separately — one ticket does not cover the other, so register for
 only the session you plan to attend. 
 
-**Speakers track ticketing: [https://www.tickettailor.com/events/owaspottawachapter/2389944](https://www.tickettailor.com/events/owaspottawachapter/2389944)**
+**Speakers Track Ticketing: [https://www.tickettailor.com/events/owaspottawachapter/2389944](https://www.tickettailor.com/events/owaspottawachapter/2389944)**
 
-**OSINT Workshop ticketing: [https://app.tickettailor.com/events/owaspottawachapter/2389995](https://app.tickettailor.com/events/owaspottawachapter/2389995)**
+**OSINT Workshop Ticketing: [https://app.tickettailor.com/events/owaspottawachapter/2389995](https://app.tickettailor.com/events/owaspottawachapter/2389995)**
 
 
 | What | Cost | Registration | Link |
@@ -51,7 +51,7 @@ and the current state of the OWASP projects.
 - **Start:** 8:45 AM, following the 9:00 AM keynote
 - **Speakers and schedule:** TBA
 
-**Speakers track ticketing: [https://www.tickettailor.com/events/owaspottawachapter/2389944](https://www.tickettailor.com/events/owaspottawachapter/2389944)**
+**Speakers Track Ticketing: [https://www.tickettailor.com/events/owaspottawachapter/2389944](https://www.tickettailor.com/events/owaspottawachapter/2389944)**
 
 ## OSINT Workshop
 
@@ -66,7 +66,7 @@ practical exercises rather than sitting through slides.
 - **Bring:** a laptop (setup details and any pre-requisites will be posted before the event)
 - **Details:** TBA
 
-**OSINT Workshop ticketing: [https://app.tickettailor.com/events/owaspottawachapter/2389995](https://app.tickettailor.com/events/owaspottawachapter/2389995)**
+**OSINT Workshop Ticketing: [https://app.tickettailor.com/events/owaspottawachapter/2389995](https://app.tickettailor.com/events/owaspottawachapter/2389995)**
 
 ## Mentoring
 
