@@ -11,7 +11,7 @@
 | **Program Start** | 8:45 AM |
 | **Location** | University of Ottawa — 150 Louis-Pasteur Private · STEM Complex, Ottawa, Ontario |
 | **Cost** | Free |
-| **Registration** | Required for the speaker track and the OSINT workshop — tickets TBA |
+| **Registration** | Required for the speaker track and the OSINT workshop |
 
 A full day of application security learning hosted by the OWASP Ottawa chapter. The day is built
 around three parts: a **speaker track**, a hands-on **OSINT workshop**, and a **mentoring** section.
@@ -34,9 +34,9 @@ only the session you plan to attend.
 
 | What | Cost | Registration | Link |
 |---|---|---|---|
-| Speaker Track | Free | Required — its own ticket | **TBA** |
-| OSINT Workshop | Free | Required — a separate ticket | **TBA** |
-| Mentoring | Free | No separate ticket — details TBA | — |
+| Speaker Track | Free | Required — its own ticket | **[Speakers Track Ticketing](https://www.tickettailor.com/events/owaspottawachapter/2389944)** |
+| OSINT Workshop | Free | Required — a separate ticket | **[OSINT Workshop Ticketing](https://app.tickettailor.com/events/owaspottawachapter/2389995)** |
+| Mentoring | Free | No separate ticket | — |
 
 ---
 
@@ -49,7 +49,6 @@ and the current state of the OWASP projects.
 - **Registration:** a separate ticket from the OSINT workshop
 - **Room:** STM 117
 - **Start:** 8:45 AM, following the 9:00 AM keynote
-- **Speakers and schedule:** TBA
 
 **Speakers Track Ticketing: [https://www.tickettailor.com/events/owaspottawachapter/2389944](https://www.tickettailor.com/events/owaspottawachapter/2389944)**
 
@@ -64,7 +63,6 @@ practical exercises rather than sitting through slides.
 - **Start:** 9:30 AM
 - **Seating:** limited; register early
 - **Bring:** a laptop (setup details and any pre-requisites will be posted before the event)
-- **Details:** TBA
 
 **OSINT Workshop Ticketing: [https://app.tickettailor.com/events/owaspottawachapter/2389995](https://app.tickettailor.com/events/owaspottawachapter/2389995)**
 
@@ -81,7 +79,6 @@ and the community?
 
 - Those seeking a session with mentor is open to students, career changers, and early-career practitioners
 - **Room:** STM 464
-- Format, sign-up process, and mentor list: TBA
 
 
 ## Volunteering
@@ -107,7 +104,7 @@ the program starting at **8:45 AM**.
 | 12:00 PM | Lunch |
 | 1:00 PM | Sessions Continue |
 | 5:00 PM | Closing remarks — STM 117 |
-| 6:00 PM | The AfterParty — location TBA |
+| 6:00 PM | The AfterParty — Nelson Pub |
 
 ---
 
