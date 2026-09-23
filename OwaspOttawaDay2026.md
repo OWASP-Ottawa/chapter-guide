@@ -92,21 +92,42 @@ If you wish to give back to your community we would love your help.
 
 ---
 
-## Schedule
+## General Day Schedule
 
-The full agenda is being finalized. Doors open and on-site registration begins at **8:00 AM**, with
+Doors open and on-site registration begins at **8:00 AM**, with
 the program starting at **8:45 AM**.
 
 | Time | Session |
 |---|---|
 | 8:00 AM | Doors open — on-site registration and check-in |
-| 8:45 AM | Welcome and opening remarks |
-| 9:00 – 9:30 AM | TBA |
-| 9:30 AM | Speaker track sessions begin — STM 117 |
-| 9:30 AM | OSINT workshop begins — STM 564 |
-| TBA | Mentoring sessions — STM 464 |
+| 8:45 AM | Welcome and opening remarks — STEM 117|
+| 9:00 AM | Speaker track sessions begin — STM 117 |
+| 9:00 AM | OSINT workshop begins — STM 564 |
+| 9:00 AM | Mentoring sessions — STM 464 |
+| 12:00 PM | Lunch |
+| 1:00 PM | Sessions Continue |
 | 5:00 PM | Closing remarks — STM 117 |
 | 6:00 PM | The AfterParty — location TBA |
+
+---
+
+## Speaker Schedule
+
+| Time | Speaker | Talk / Topic |
+| --- | --- | --- |
+| **8:45–9:00 AM** | **Garth Boyd** | *Welcome* |
+| **9:00–9:55** | **Farshad Abasi** | *Your Threat Model Is Lying to You: Why Modeling the Design Isn't Enough in 2026* |
+| **10:00–10:25** | **Sabrina Lavi** | *People-Powered Security: Scaling AppSec Through Champions, Community, and Culture* |
+| **10:30–11:25** | **Alexander Rudolph** | *Canadian Digital Sovereignty in a Zero-Trust World: Unpacking Socio-Economic Dimensions of Digital Sovereignty* |
+| **11:30–11:55** | **Kayode Olabisi** | *Your LLM App Passed the Checklist. Now What?* |
+| **12:00–1:00** | — | **Lunch** |
+| **1:00–1:55** | **Ben Gardiner** | *Tractor ECU RE: When a "Noise Triggered" Recall is also a Security Patch* |
+| **2:00–2:25** | **Magno Logan** | *Nobody's Mining Crypto Anymore: What Attackers Actually Want From Your CI* |
+| **2:30–2:55** | **Kishan Nagendra** | *Agentic AI Design Patterns and Their Security Implications* |
+| **3:00–3:55** | **Faustin Bouchard** | *Stop Policing Words. Govern Authorization.* |
+| **4:00–4:25** | **Pavel Shukhman** | *Who Wrote This Code? A Forensic Whodunit in the Agentic Era* |
+| **4:30–4:55** | **Logan MacLaren/Fennix** | *50 Shades of Red - Red Teaming & Pentesting in Practice* |
+| **5:00–5:10** | **Garth Boyd** | *Closing* |
 
 ---
 
