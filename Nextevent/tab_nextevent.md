@@ -16,8 +16,9 @@ YouTube Live Stream Link: TBA
 
 ***6:00 PM EST*** Arrival, setup, mingle, PIZZA!!!
 
-***6:45PM EST*** Technical Talks
-* Introduction to OWASP Ottawa, Public Announcements.
+***6:30 PM EST*** Introduction to OWASP Ottawa, Public Announcements.
+
+***6:45 PM EST*** Technical Talks
 * ***The Blind Men & the LLM: What “AI Security” Actually Means*** with Lester Wong
 
 
